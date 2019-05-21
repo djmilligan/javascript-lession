@@ -100,7 +100,18 @@ msg = 'Hello World';
 console.log(msg);
 
 // ----------------------------------------------------------------------
+
 // Variables 7
+// One statement several Variables
+var person = "John Doe", carName = "Volvo", price = 200;
+
+// also over more than one line too
+var person = "John Doe", 
+carName = "Volvo", 
+price = 200;
+
+// ----------------------------------------------------------------------
+// Variables 8
 // String concatination - use + sign
 
 var firstName = 'Darin';
